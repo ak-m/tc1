@@ -1,1 +1,1 @@
-adding new file in master - to test how stash works
+how stash works
