@@ -2,4 +2,4 @@ added by author ak-c
 added first line which will be staged
 added another line but untracked
 added by author & user ak-c
-how stash works
+really how stash works
